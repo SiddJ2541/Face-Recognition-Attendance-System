@@ -111,5 +111,5 @@ SHIVAM,15:03:40,2026-03-27,Friday
 - Deploy as a web-based application
 
 ## 👨‍💻 Author
-**Mayank Gomase**  
+**Siddhartha Jaiswal**  
 *Computer Vision Mini Project*
